@@ -5,8 +5,7 @@ file:///etc/skel /etc/skel
 file:///home/yuri/.config .config
 file:///home/yuri/DATA DATA
 file:///home/yuri/DATA/nemesis
-file:///home/yuri/DATA/PKGBUILD
-file:///home/yuri/DATA/PKGBUILD/yuku_repo
+file:///home/yuri/DATA/yuku-pkgbuild
 file:///home/yuri/Insync Insync
 file:///home/yuri/.icons .icons
 file:///usr/share/icons icons
